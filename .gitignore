@@ -1,0 +1,25 @@
+# Python
+.venv/
+__pycache__/
+*.pyc
+
+# Dataset
+dataset/
+
+# Large data files
+*.tsv
+*.csv
+*.sqlite
+*.sqlite3
+*.db
+
+# Generated files
+output/
+
+# IDE
+.vscode/
+.idea/
+
+# OS
+.DS_Store
+Thumbs.db
